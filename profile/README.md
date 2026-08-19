@@ -2,7 +2,7 @@
 
 This organization contains portfolio documentation forks of my university projects, game jam projects, and technical assignments.
 
-The original repositories stay linked through GitHub's fork relationship and, where useful, inside each README. These forks are used to improve project documentation, add media, clarify project context, and describe the parts of the projects I personally worked on or can explain in detail.
+The original repositories stay linked through GitHub's fork relationship and inside each README. These forks are used to improve project documentation and describe the parts of the projects I personally worked on and can explain in detail.
 
 ## Why These Forks Exist
 
