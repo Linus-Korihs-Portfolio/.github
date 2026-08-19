@@ -1,27 +1,38 @@
-# Servus 
+# Portfolio Project Forks
 
-I am Linus (Korihs), a Junior Unity Gameplay Programmer, studying in Heidelberg, Germany. 
-I focus on C# in the Unity Engine. I made multiple games during my studies and participated in two game jams. Currently working as the only programmer in a team on a 3D-Roguelite with Procedural Generation.
+This organization contains portfolio documentation forks of my university projects, game jam projects, and technical assignments.
 
-- [Portfolio](Coming_Soon)
-- [Itch.io](https://korihs.itch.io)
-- [Email](Coming_Soon)
+The original repositories stay linked through GitHub's fork relationship and, where useful, inside each README. These forks are used to improve project documentation, add media, clarify project context, and describe the parts of the projects I personally worked on or can explain in detail.
 
-## Focus
+## Why These Forks Exist
 
-- Unity gameplay programming with C#
-- Player mechanics, interaction systems, UI and game feel
-- Gameplay systems and physics interactions
-- Custom in-game AI/algorithms, including Q-learning experiments
-- Kotlin Android app development as additional software experience
+Several projects were created as team projects or university assignments. Instead of changing the original repositories only to improve my portfolio presentation, I keep cleaned-up documentation versions here.
+
+These forks do not replace the original repositories and do not attempt to list every team member's contribution. They focus on:
+- project context
+- screenshots, GIFs and videos
+- controls and setup instructions
+- my own programming contributions
+- technical systems I can discuss in detail
 
 ## Featured Projects
 
-| Project | Focus |
+| Project | Type | Technical Focus |
+| --- | --- | --- |
+| [Axolite: Cursed Doubloons](https://github.com/Linus-Korihs-Portfolio/Axolite-Cursed-Doubloons) | Unity 3D roguelite | Procedural generation, companion AI, enemy systems, gameplay programming |
+| [Remera](https://github.com/Linus-Korihs-Portfolio/Remera) | Unity 3D puzzle adventure | Companion AI, NavMesh pathfinding, puzzle systems, physics interactions |
+| [KI Tetris](https://github.com/Linus-Korihs-Portfolio/AI-Tetris) | Unity + Python AI assignment | Q-learning, socket communication, training logs, Q-table persistence |
+| [The Masquerade](https://github.com/Linus-Korihs-Portfolio/Global-Game-Jam-2026) | Global Game Jam 2026 | NPC AI, detection logic, disguise mechanics, tilemap collision |
+| [Chroma Quest: The Lost Colors](https://github.com/Linus-Korihs-Portfolio/Chroma-Quest-The-Lost-Colors) | C++/raylib university project | Game loop structure, player mechanics, collision logic, UI |
+| [Froject: Yeehaw!](https://github.com/Linus-Korihs-Portfolio/Froject-Yeehaw) | Unity 2D platformer | Grappling hook movement, player controller, momentum, physics interactions |
+
+## Original Repositories
+
+| Project | Original Repository |
 | --- | --- |
-| Remera | Unity team project, gameplay systems, AI companion & puzzle logic |
-| Axolite: Cursed Doubloons | Unity team project, procedural generation from levels & enemies, metrics, gameplay system & loops |
-| KI Tetris | Unity + Python Q-learning experiment |
-| The Masquerade | Global Game Jam 2026 team project with disguise mechanics |
-| Chroma Quest | C++/raylib project from second semester |
-| Contact App | Kotlin Android contact app with API data and QR import/export |
+| Axolite: Cursed Doubloons | [LinusKorihs/GruenderGame](https://github.com/LinusKorihs/GruenderGame) |
+| Remera | [LinusKorihs/PA4-Team03](https://github.com/LinusKorihs/PA4-Team03) |
+| KI Tetris | [LinusKorihs/KI-TetrisAbgabeSRH](https://github.com/LinusKorihs/KI-TetrisAbgabeSRH) |
+| The Masquerade | [LinusKorihs/GGJ2026](https://github.com/LinusKorihs/GGJ2026) |
+| Chroma Quest: The Lost Colors | [LinusKorihs/Chroma-Quest-The-Lost-Colors](https://github.com/LinusKorihs/Chroma-Quest-The-Lost-Colors) |
+| Froject: Yeehaw! | [E1kari/Projektarbeit-III-team01](https://github.com/E1kari/Projektarbeit-III-team01) |
