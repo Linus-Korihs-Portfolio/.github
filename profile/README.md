@@ -1,6 +1,6 @@
 <div align="center">
 
-# Linus Korihs Portfolio Projects
+# Linus / Korihs Portfolio Projects
 
 ### Curated portfolio documentation forks for university projects, game jam projects and technical assignments.
 
