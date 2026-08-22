@@ -4,7 +4,7 @@
 
 ### Curated portfolio documentation forks for university projects, game jam projects and technical assignments.
 
-[Personal GitHub](https://github.com/LinusKorihs) · [Itch.io](https://korihs.itch.io) · Portfolio coming soon · Email coming soon
+[Personal GitHub](https://github.com/LinusKorihs) · [Itch.io](https://korihs.itch.io) · [Portfolio](hhtps://Linustheuringer.com) · Email coming soon
 
 </div>
 
